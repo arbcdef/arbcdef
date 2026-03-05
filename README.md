@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arbcdef/arbcdef/output/snake.svg" alt="Snake animation" />
-
-###
